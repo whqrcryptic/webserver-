@@ -1,0 +1,33 @@
+/*Global Reset*/
+
+#box{display: flex;
+    flex-direction: row-reverse;    
+}
+    #container1{
+    display: flex;
+    flex-direction: row;         
+    float: right;
+  list-style-type: none;
+  margin: 50px;    
+ }
+ #container2{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;    
+    float: right;
+    list-style-type:none;
+    margin: 51px;    
+   }
+   #container3{ 
+          
+    float: right;
+    list-style-type: none;
+    margin: 50px; 
+   
+   }
+
+ 
+ 
+
+
+

@@ -1,0 +1,47 @@
+/* Global reset */
+
+/* Header styling */
+* {
+    margin: 0px;
+    padding: 0px;
+    font-size: x-large;
+    font-family: Century, sans-serif;    
+}
+
+/* Background settings */
+body{
+    background-image: linear-gradient(rgba(196, 24, 24, 0.5), rgba(13, 126, 160, 0.5)), url(assets/backgrounds/yin-yang.webp);   
+    height: auto;
+    width:auto;
+   background-size:contain
+    background-position: center;
+    background-repeat: repeat;
+    background-attachment: fixed;
+    min-height: 10px;
+    }
+
+    /* Header spacing and location */
+ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+   
+    
+}
+ul li{
+    display: inline-block;
+    }
+    ul li a{
+        text-decoration: none;
+        color: #fff;
+        padding: 100px 20px;
+        border: 1px solid transparent;
+        transition: 0.5 ease;        
+            }
+            ul li a:hover{
+                background-color: #fff;
+                color: #000;              
+            }
+
+
+          
