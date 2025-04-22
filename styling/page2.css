@@ -8,7 +8,7 @@
 
 /* Background settings */
 body {
-    background-image: linear-gradient(rgba(196, 24, 24, 0.5), rgba(13, 126, 160, 0.5)), url('assets/test.webp');
+    background-image: linear-gradient(rgba(196, 24, 24, 0.5), rgba(13, 126, 160, 0.5)), url('assets/bridger.jpg');
     background-size: contain;
     background-position: center;
     background-repeat: repeat;
