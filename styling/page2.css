@@ -8,10 +8,10 @@
 
 /* Background settings */
 body {
-    background-image: linear-gradient(rgba(196, 24, 24, 0.5), rgba(13, 126, 160, 0.5)), url('assets/bridger.jpg');
+    background-image: linear-gradient(rgba(196, 24, 24, 0.5), rgba(13, 126, 160, 0.5)), url('assets/images/bridger.jpg');
     background-size: contain;
     background-position: center;
-    background-repeat: repeat;
+    background-repeat: zrepeat;
     background-attachment: fixed;
     min-height: 10px;
 }
